@@ -57,3 +57,5 @@
   - _tsc -v_ : Checking typescript version
 - Code Editor (IDE) Visual studio code
   - _URL_ : https://code.visualstudio.com/
+- Adding tsconfig for typescript configuration
+  ![alt text](./src/assets/gif/tsconfig.gif?raw=true)
