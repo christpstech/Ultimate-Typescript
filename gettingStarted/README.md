@@ -51,10 +51,10 @@
 ## Setting up the Development Enviroment
 
 - Node software is required for running the typescript application in your machine
-  - _URL_ : https://nodejs.org/en/
+  - _URL_ : [https://nodejs.org/en/](https://nodejs.org/en/)
 - After you need to install the typescript in your machine using following by the cli command
-  - _npm i -g typescript_ : Installing typescript
-  - _tsc -v_ : Checking typescript version
+  - `npm i -g typescript` : Installing typescript
+  - `tsc -v` : Checking typescript version
 - Code Editor (IDE) Visual studio code
   - _URL_ : https://code.visualstudio.com/
 - Adding tsconfig for typescript configuration
